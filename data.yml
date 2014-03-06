@@ -1,15 +1,8 @@
 title : Tsuga Properties
 tagline: Blog Tagline
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Tsuga Properties
+  email : info@tsuga.co
 
 navigation :
-  - archive
-  - tags
-  - categories
-  - pages
   - about
