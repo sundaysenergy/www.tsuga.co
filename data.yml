@@ -1,8 +1,12 @@
 title : Tsuga Properties
 tagline: Blog Tagline
+copy: Tsuga Properties Partnership
 author :
   name : Tsuga Properties
   email : info@tsuga.co
 
-navigation :
-  - about
+navbar : true
+nav:
+  -
+    link: http://tow.tsuga.co
+    title: Parking
